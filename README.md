@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @UdhayaShan1
-- 👀 I’m interested in trading, movies and some coding.
+- 👀 I’m interested in coding, movies and some trading.
 - 🌱 I’m currently learning C and Python.
-- 💞️ I’m looking for affiliates for crypto/forex schemes.
 - 📫 How to reach me @khemistry909 on Telegram.
 
 <!---
