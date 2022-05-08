@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UdhayaShan1
 - 👀 I’m interested in coding, movies and some trading.
-- 🌱 I’m currently learning C and Python.
+- 🌱 I’m currently practicing competitive programming.
 - 📫 How to reach me @khemistry909 on Telegram.
 
 <!---
