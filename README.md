@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @UdhayaShan1
-- 👀 I’m interested in coding, movies and some trading.
+- 👀 I’m interested in coding (data structures and algo mostly).
 - 🌱 I’m currently practicing competitive programming.
 - 📫 How to reach me @frostbitepillars on Telegram.
 
