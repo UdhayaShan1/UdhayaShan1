@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UdhayaShan1
-- 👀 I’m interested in coding (data structures and algo mostly).
-- 🌱 I’m currently practicing competitive programming.
+- 👀 I’m interested in programming and gaming.
+- 🌱 I’m currently studying computer science in NUS.
 - 📫 How to reach me @frostbitepillars on Telegram.
 
 <!---
